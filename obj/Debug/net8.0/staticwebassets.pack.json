@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CuppiePC\\source\\repos\\OnlineUserManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineUserManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineUserManagement.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\CuppiePC\\source\\repos\\OnlineUserManagement\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\CuppiePC\\source\\repos\\OnlineUserManagement\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CuppiePC\\source\\repos\\OnlineUserManagement\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CuppiePC\\source\\repos\\OnlineUserManagement\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineUserManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineUserManagement.props",
+      "PackagePath": "build\\OnlineUserManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineUserManagement.props",
+      "PackagePath": "buildMultiTargeting\\OnlineUserManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineUserManagement.props",
+      "PackagePath": "buildTransitive\\OnlineUserManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
